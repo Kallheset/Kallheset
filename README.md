@@ -29,6 +29,7 @@ Soy programador web back‑end con experiencia en Python, Django, FastAPI y desp
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### 📊 Estadísticas & Actividad
@@ -37,7 +38,6 @@ Soy programador web back‑end con experiencia en Python, Django, FastAPI y desp
 
 ![Top Lenguajes](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kallheset&layout=compact&theme=radical&hide_border=true)
 
-![Racha de Contribuciones](https://streak-stats.demolab.com?user=Kallheset&theme=radical&hide_border=true)
 
 ### 📨 Contacto
 
