@@ -6,14 +6,12 @@
 
 ### 🚀 Proyectos destacados
 
-He trabajado en varios proyectos que reflejan mis intereses y habilidades. Aquí algunos ejemplos que puedes destacar y *pinear* en tu perfil:
+He trabajado en varios proyectos que reflejan mis intereses y habilidades.
 
 - **Biblioteca Django REST** – Sistema de gestión de biblioteca con Django y Django REST Framework. Incorpora autenticación, almacenamiento en Cloudinary y CI/CD con GitHub Actions.
 - **Análisis Exploratorio de Accidentes** – proyecto de exploración de datos (EDA) y modelo de regresión logística sobre accidentes de tráfico en Madrid; incluye scripts en notebooks y entorno reproducible con Docker.
 - **NaiveModel** – implementación de un modelo de aprendizaje automático sencillo con scripts de entrenamiento y predicción.
 - **Portfolio‑Back** – API de portfolio personal desarrollada con FastAPI.
-
-Asegúrate de que cada repositorio público tenga un README estructurado que incluya descripción, requisitos, instrucciones de instalación, ejemplos de uso y tecnologías empleadas. Así facilitas que reclutadores y colaboradores entiendan tu trabajo【809119629958436†L118-L154】.
 
 ### 💡 Sobre mí
 
@@ -59,7 +57,3 @@ Además puedes añadir widgets opcionales como música en Spotify u otras APIs s
 ### 📣 Llamado a la acción
 
 Si te interesa colaborar en proyectos de back‑end o análisis de datos, ¡contáctame! Estoy abierto a propuestas de colaboración y oportunidades laborales.
-
----
-
-> *Este README está diseñado para mostrar quién eres y atraer a reclutadores. Recuerda mantenerlo actualizado con tus proyectos y aprendizajes más recientes【473405793736551†L110-L124】.*
