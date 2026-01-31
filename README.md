@@ -30,23 +30,14 @@ Soy programador web back‑end con experiencia en Python, Django, FastAPI y desp
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+
 ### 📊 Estadísticas & Actividad
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kallheset&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallheset&layout=compact&theme=radical&hide_border=true" alt="Top Lenguajes" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Kallheset&theme=radical&hide_border=true" alt="Racha de Contribuciones" width="100%" />
-    </td>
-  </tr>
-</table>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kallheset&show_icons=true&theme=radical&hide_border=true)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=Kallheset&layout=compact&theme=radical&hide_border=true)
+
+![Racha de Contribuciones](https://streak-stats.demolab.com?user=Kallheset&theme=radical&hide_border=true)
 
 Además puedes añadir widgets opcionales como música en Spotify u otras APIs si quieres dar un toque personal【473405793736551†L84-L107】.
 
