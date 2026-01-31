@@ -33,13 +33,11 @@ Soy programador web back‑end con experiencia en Python, Django, FastAPI y desp
 
 ### 📊 Estadísticas & Actividad
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kallheset&show_icons=true&theme=radical&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats-fast.vercel.app/api?username=Kallheset&show_icons=true&theme=radical&hide_border=true)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=Kallheset&layout=compact&theme=radical&hide_border=true)
+![Top Lenguajes](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kallheset&layout=compact&theme=radical&hide_border=true)
 
 ![Racha de Contribuciones](https://streak-stats.demolab.com?user=Kallheset&theme=radical&hide_border=true)
-
-Además puedes añadir widgets opcionales como música en Spotify u otras APIs si quieres dar un toque personal【473405793736551†L84-L107】.
 
 ### 📨 Contacto
 
