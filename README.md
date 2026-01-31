@@ -32,7 +32,6 @@ Soy programador web back‑end con experiencia en Python, Django, FastAPI y desp
 
 ### 📊 Estadísticas & actividades
 
-Mostrar tu actividad con tarjetas dinámicas ayuda a transmitir tu constancia【473405793736551†L84-L99】. Puedes generar estas imágenes sustituyendo `Kallheset` por tu usuario:
 
 - **Estadísticas de GitHub**
 
@@ -50,10 +49,9 @@ Además puedes añadir widgets opcionales como música en Spotify u otras APIs s
 
 ### 📨 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu‑perfil)  
-- Correo: tu.email@dominio.com  
-- Twitter / X: [@tuUsuario](https://twitter.com/tuUsuario)
+- [LinkedIn] : https://www.linkedin.com/in/argenis-manzanares-108b4a349
+- Correo: argenis010@gmail.com
 
-### 📣 Llamado a la acción
+### 📣
 
 Si te interesa colaborar en proyectos de back‑end o análisis de datos, ¡contáctame! Estoy abierto a propuestas de colaboración y oportunidades laborales.
