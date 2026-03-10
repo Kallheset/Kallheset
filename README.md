@@ -11,7 +11,7 @@ He trabajado en varios proyectos que reflejan mis intereses y habilidades.
 - **Biblioteca Django REST** – Sistema de gestión de biblioteca con Django y Django REST Framework. Incorpora autenticación, almacenamiento en Cloudinary y CI/CD con GitHub Actions.
 - **Análisis Exploratorio de Accidentes** – proyecto de exploración de datos (EDA) y modelo de regresión logística sobre accidentes de tráfico en Madrid; incluye scripts en notebooks y entorno reproducible con Docker.
 - **NaiveModel** – implementación de un modelo de aprendizaje automático sencillo con scripts de entrenamiento y predicción.
-- **Portfolio‑Back** – API de portfolio personal desarrollada con FastAPI.
+- **Portfolio‑Back** – portfolio personal desarrollada con Django.
 
 ### 💡 Sobre mí
 
